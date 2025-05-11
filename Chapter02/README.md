@@ -9,3 +9,10 @@
 * Adding comments to posts using forms from models
 
 Changes will be made to the django project in chapter01 to save space and time. any other new django project will be allocated in its current chapter directory.
+
+Creating SEO-friendly URLs for posts
+
+
+Adding pagination
+
+cont: Adding pagination to the post list view
